@@ -14,8 +14,8 @@ var order = new PurchaseOrderRequest
 	CustomerInfo = new CustomerInfo
 	{
 		Location = "Nigeria",
-		Email = "customer@domain.com",
-		IpAddress = "127.0.0.1",
+		Email = "customer@domainX.com",
+		IpAddress = "128.0.0.1",
 	},
 };
 
